@@ -1,4 +1,4 @@
-# Shoreline Watch - Data Warehouse Project
+# Shoreline Watch - Business Intelligence Project
 This project is demonstrating a Data Warehouse using an online watch retailer and visualizing the data with Seaborn, Matplotlib and Power BI 
 
 ## Getting Started
